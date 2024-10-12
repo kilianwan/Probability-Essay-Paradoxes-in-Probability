@@ -2,7 +2,7 @@
 
 Authors: *Eliot Dugelay* and *Kilian Wan*
 
-Overview
+# Overview:
 This repository contains the essay "Probability Essay: Borel-Kolmogorov and Bertrand's Paradoxes" by Eliot Dugelay and Kilian Wan. This essay explores two intriguing paradoxes in probability theory:
 
 *Borel-Kolmogorov Paradox*: This paradox deals with the conditional probability in cases where the event has a probability of zero. It questions the well-defined nature of conditional probabilities when conditioning on events of measure zero, providing examples to demonstrate the paradox.
